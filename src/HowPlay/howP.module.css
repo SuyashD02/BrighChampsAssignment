@@ -70,6 +70,7 @@
     opacity: 0px;
     background-image: url('../assets/AppleBG.png');
     background-size:contain;
+    z-index: 1
 }
 .bgImage1 {
     position: absolute;
@@ -79,6 +80,7 @@
     margin-top: -6em;
     opacity: 0px;
     background-image: url('../assets/Apple1.png');
+    z-index: 1
 }
 .bgImageM2{
     width: 210px;
